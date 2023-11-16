@@ -1,0 +1,1 @@
+from .vjnetworks import CycleGAN
